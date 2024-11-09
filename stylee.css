@@ -1,0 +1,48 @@
+.banner {
+  background-color: #3498db;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border: #3498db;
+  font-size: 35px;
+}
+
+h2 {
+  font-size: 40px;
+  padding: 20px 0;
+  text-align: center;
+  margin: 20 auto;
+  color: black;
+}
+
+P {
+  font-size: 125%;
+  color: black;
+  text-align: center;
+  margin: 1%;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  font-size: 125%;
+  color: rgb(100, 99, 99);
+  text-align: center;
+  margin: 1%;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  width: 600px;
+  height: auto;
+  object-position: center;
+  transform: translateX(650px);
+}
+
+p {
+  font-size: 125%;
+  color: black;
+  text-align: center;
+  margin: 1%;
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
